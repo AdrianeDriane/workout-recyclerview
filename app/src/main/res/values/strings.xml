@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Workout</string>
+
+    <!--Workout name and reps (Upper Body Day)-->
+    <string name="upper1">Bench Press (4x8)</string>
+    <string name="upper2">Inclined Bench Press (3x8)</string>
+    <string name="upper3">Dumbell Shoulder Press (4x10)</string>
+    <string name="upper4">Pull Ups (4x10)</string>
+    <string name="upper5">Barbell Rows (3x8)</string>
+    <string name="upper6">Lateral Raises (4x12)</string>
+    <string name="upper7">Rear Delt Rope (4x12)</string>
+
+    <!--Workout muscles target (Upper Body Day)-->
+    <string name="upper1target">Targets: Entire Pecs</string>
+    <string name="upper2target">Targets: Upper Pecs</string>
+    <string name="upper3target">Targets: Front/Side Delts</string>
+    <string name="upper4target">Targets: Entire Back</string>
+    <string name="upper5target">Targets: Lats</string>
+    <string name="upper6target">Targets: Side Delts</string>
+    <string name="upper7target">Targets: Rear Delts</string>
+
+    <!--Workout name and reps (Lower Body Day)-->
+    <string name="lower1">Barbell Squats (4x6)</string>
+    <string name="lower2">Deadlifts (4x6)</string>
+    <string name="lower3">Bulgarian Split Squats (3x8)</string>
+    <string name="lower4">Leg Extensions (3x12)</string>
+    <string name="lower5">Leg Curls (3x12)</string>
+    <string name="lower6">Core Exercise (varies)</string>
+
+    <!--Workout muscles target (Lower Body Day)-->
+    <string name="lower1target">Targets: Entire Legs</string>
+    <string name="lower2target">Targets: Hamstrings/Glutes</string>
+    <string name="lower3target">Targets: Entire Legs</string>
+    <string name="lower4target">Targets: Quads</string>
+    <string name="lower5target">Targets: Hamstrings</string>
+    <string name="lower6target">Targets: Abdominal Muscles</string>
+    
+    <string name="button_horizontal">Horizontal</string>
+    <string name="button_vertical">Vertical</string>
+</resources>
